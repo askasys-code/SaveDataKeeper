@@ -13,7 +13,7 @@
 - **Status Updates**: Displays real-time status messages during backup operations.
 
 ## Usage
-1. Create a `backup_paths.txt` file in the script's directory, listing paths to back up (one per line, ignoring comments with `#` or blank lines).
+1. Create a `paths.txt` file in the script's directory, listing paths to back up (one per line, ignoring comments with `#` or blank lines).
 2. Run the script in PowerShell.
 3. Use the GUI to:
    - Select a destination folder (defaults to the script's directory).

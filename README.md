@@ -1,7 +1,7 @@
 # Save Data Keeper
 
 ## Overview
-`SaveDataKeeper.ps1` is a PowerShell script that provides a graphical user interface (GUI) for backing up files and folders specified in a configuration file (`backup_paths.txt`). It offers two backup modes: a standard folder backup and a ZIP-compressed backup, both preserving the full folder structure from the drive root.
+`SaveDataKeeper.ps1` is a PowerShell script that provides a graphical user interface (GUI) for backing up files and folders specified in a configuration file (`paths.txt`). It offers two backup modes: a standard folder backup and a ZIP-compressed backup, both preserving the full folder structure from the drive root.
 
 ## Features
 - **GUI Interface**: Built with Windows Forms, featuring buttons for initiating backups, browsing destinations, and opening the paths file.

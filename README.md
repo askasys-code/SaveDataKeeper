@@ -10,8 +10,6 @@
 - **Backup Paths**: Reads source paths from `paths.txt`, supporting absolute and relative paths (relative to the user's profile).
 - **Standard Backup**: Copies files to a timestamped folder (e.g., `Backup_20250608_123456`) while maintaining the folder hierarchy (e.g., `Users\Username\Documents`).
 - **ZIP Backup**: Stages files in a temporary directory with the same folder structure, then compresses them into a timestamped ZIP file (e.g., `Backup_20250608_123456.zip`).
-- **DPI Scaling**: Adjusts the GUI for high-resolution monitors with manual DPI scaling.
-- **Background Image**: Supports a custom background image (`background.jpg`) or falls back to a solid color.
 - **Status Updates**: Displays real-time status messages during backup operations.
 
 ## Usage

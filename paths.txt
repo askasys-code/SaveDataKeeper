@@ -1,0 +1,19 @@
+### Documents
+Documents\The Witcher 3
+Documents\My Games\Resonance of Fate
+Documents\My Games\BulletGirlsPhantasia
+Documents\My Games\GunGunPixies
+Documents\SQUARE ENIX\FINAL FANTASY X&X-2 HD Remaster
+Documents\KoeiTecmo\BLUE REFLECTION
+Documents\KoeiTecmo\Venus Vacation PRISM - DEAD OR ALIVE Xtreme -
+
+### Games
+Games\Age of Empires 2 DE
+
+### AppData
+AppData\Local\EnderLilies
+AppData\Local\GalGunReturns
+AppData\Local\GBFR
+AppData\Local\StarlitSeason
+
+
